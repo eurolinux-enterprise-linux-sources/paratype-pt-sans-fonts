@@ -29,7 +29,7 @@ and released by ParaType. \
 
 Name:           %{fontname}-fonts
 Version:        20101909
-Release:        2%{?dist}
+Release:        3%{?dist}
 Summary:        A pan-Cyrillic typeface
 
 Group:          User Interface/X
@@ -106,6 +106,9 @@ done
 
 
 %changelog
+* Fri Dec 27 2013 Daniel Mach <dmach@redhat.com> - 20101909-3
+- Mass rebuild 2013-12-27
+
 * Thu Feb 14 2013 Fedora Release Engineering <rel-eng@lists.fedoraproject.org> - 20101909-2
 - Rebuilt for https://fedoraproject.org/wiki/Fedora_19_Mass_Rebuild
 
